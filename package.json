@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalvinNasim01/Node-Farm-Node.git"
+  },
+  "author": "Malvin Nasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalvinNasim01/Node-Farm-Node/issues"
+  },
+  "homepage": "https://github.com/MalvinNasim01/Node-Farm-Node#readme",
+  "dependencies": {
+    "slugify": "^1.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
